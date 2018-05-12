@@ -1,0 +1,38 @@
+_repo: The-Hand-Of-Fu-ManchuBeing-a-New-Phase-in-the-Activities-of-Fu-Manchu-the-Devil-Doctor_17959
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rohmer, Sax
+    alias: Ward, Arthur Sarsfield
+    birthdate: 1883
+    deathdate: 1959
+    gutenberg_agent_id: '110'
+    url: http://www.gutenberg.org/2009/agents/110
+    wikipedia: http://en.wikipedia.org/wiki/Sax_Rohmer
+description: '&#x93;Imagine a person, tall, lean, and feline, high-shouldered, with
+  a brow like Shakespeare and a face like Satan&#x85;" LONDON, 1913&#x97;the era of
+  Sherlock Holmes, Dracula, and the Invisible Man. A time of shadows, secret societies,
+  and dens filled with opium addicts. Into this world comes the most fantastic emissary
+  of evil society has ever known&#x85; FU-MANCHU &#x93;Fu-Manchu remains the definitive
+  diabolical mastermind of the 20th Century."&#x97;Kim Newman, award-winning author
+  of Anno Dracula THE SI-FAN MYSTERIES A sealed box and murder most foul call Nayland
+  Smith and Dr. Petrie back from distant Egypt to t.'
+gutenberg_bookshelf: Crime Fiction
+gutenberg_issued: '2006-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17959'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fu Manchu, Doctor (Fictitious character) -- Fiction'
+- !lcsh 'Detective and mystery stories'
+title: "The Hand of Fu-Manchu\r\nBeing a New Phase in the Activities of Fu-Manchu,\
+  \ the Devil Doctor"
+url: http://www.gutenberg.org/ebooks/17959
